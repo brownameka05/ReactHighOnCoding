@@ -1,0 +1,35 @@
+.curse {
+  background-color: #DDDEE1;
+  color:#55595F;
+}
+
+.watchkit {
+  color: #2779C7;
+}
+
+.body {
+  color: black;
+}
+
+.comments {
+  background-color:#F39017;
+  color: white;
+  display:flex;
+  list-style: none;
+  padding: 30px;
+  height: 3px;
+
+}
+
+
+.menu {
+  background-color: #52A7FA;
+  color: white;
+  display: flex;
+  list-style: none;
+}
+
+.menu li {
+  width: 100px;
+  padding: 30px;
+}
